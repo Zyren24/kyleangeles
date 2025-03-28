@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <students>
     <student>
-        <picture>https://www.google.com/url?sa=i&url=https%3A%2F%2Fph.pinterest.com%2Fanjgallery%2Fid-pics-template%2F&psig=AOvVaw31huJ_69WsxU6WN7dABbAb&ust=1743229159992000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCICSmOiQrIwDFQAAAAAdAAAAABAE</picture>
+        <picture>https://randomuser.me/api/portraits/men/1.jpg</picture>
         <name>Juan Dela Cruz</name>
         <course>BSIT</course>
         <year_level_section>3bg2</year_level_section>
@@ -9,7 +9,7 @@
         <school_year>2025-2026</school_year>
     </student>
     <student>
-        <picture>picture2.jpg</picture>
+        <picture>https://randomuser.me/api/portraits/women/2.jpg</picture>
         <name>Maria Santos</name>
         <course>BSCS</course>
         <year_level_section>2bg3</year_level_section>
@@ -17,7 +17,7 @@
         <school_year>2025-2026</school_year>
     </student>
     <student>
-        <picture>picture3.jpg</picture>
+        <picture>https://randomuser.me/api/portraits/men/3.jpg</picture>
         <name>Carlos Reyes</name>
         <course>BSIT</course>
         <year_level_section>1bg1</year_level_section>
@@ -25,7 +25,7 @@
         <school_year>2025-2026</school_year>
     </student>
     <student>
-        <picture>picture4.jpg</picture>
+        <picture>https://randomuser.me/api/portraits/women/4.jpg</picture>
         <name>Anna Dela Cruz</name>
         <course>BSCS</course>
         <year_level_section>4bg4</year_level_section>
@@ -33,7 +33,7 @@
         <school_year>2025-2026</school_year>
     </student>
     <student>
-        <picture>picture5.jpg</picture>
+        <picture>https://randomuser.me/api/portraits/men/5.jpg</picture>
         <name>Marco Bautista</name>
         <course>BSIT</course>
         <year_level_section>3bg2</year_level_section>
@@ -41,7 +41,7 @@
         <school_year>2025-2026</school_year>
     </student>
     <student>
-        <picture>picture6.jpg</picture>
+        <picture>https://randomuser.me/api/portraits/women/6.jpg</picture>
         <name>Lisa Gomez</name>
         <course>BSCS</course>
         <year_level_section>2bg3</year_level_section>
@@ -49,7 +49,7 @@
         <school_year>2025-2026</school_year>
     </student>
     <student>
-        <picture>picture7.jpg</picture>
+        <picture>https://randomuser.me/api/portraits/men/7.jpg</picture>
         <name>Pedro Morales</name>
         <course>BSIT</course>
         <year_level_section>1bg1</year_level_section>
@@ -57,7 +57,7 @@
         <school_year>2025-2026</school_year>
     </student>
     <student>
-        <picture>picture8.jpg</picture>
+        <picture>https://randomuser.me/api/portraits/women/8.jpg</picture>
         <name>Sophia Tan</name>
         <course>BSCS</course>
         <year_level_section>4bg4</year_level_section>
@@ -65,7 +65,7 @@
         <school_year>2025-2026</school_year>
     </student>
     <student>
-        <picture>picture9.jpg</picture>
+        <picture>https://randomuser.me/api/portraits/men/9.jpg</picture>
         <name>Elijah Cruz</name>
         <course>BSIT</course>
         <year_level_section>3bg2</year_level_section>
@@ -73,7 +73,7 @@
         <school_year>2025-2026</school_year>
     </student>
     <student>
-        <picture>picture10.jpg</picture>
+        <picture>https://randomuser.me/api/portraits/women/10.jpg</picture>
         <name>Angela Rodriguez</name>
         <course>BSCS</course>
         <year_level_section>2bg3</year_level_section>
