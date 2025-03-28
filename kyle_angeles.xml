@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+    <student>
+        <picture>picture1.jpg</picture>
+        <name>Juan Dela Cruz</name>
+        <course>BSIT</course>
+        <year_level_section>3bg2</year_level_section>
+        <adviser>Mr. Ramon Dela Cruz</adviser>
+        <school_year>2025-2026</school_year>
+    </student>
+    <student>
+        <picture>picture2.jpg</picture>
+        <name>Maria Santos</name>
+        <course>BSCS</course>
+        <year_level_section>2bg3</year_level_section>
+        <adviser>Ms. Ana Lopez</adviser>
+        <school_year>2025-2026</school_year>
+    </student>
+    <student>
+        <picture>picture3.jpg</picture>
+        <name>Carlos Reyes</name>
+        <course>BSIT</course>
+        <year_level_section>1bg1</year_level_section>
+        <adviser>Mr. John Smith</adviser>
+        <school_year>2025-2026</school_year>
+    </student>
+    <student>
+        <picture>picture4.jpg</picture>
+        <name>Anna Dela Cruz</name>
+        <course>BSCS</course>
+        <year_level_section>4bg4</year_level_section>
+        <adviser>Ms. Sarah Johnson</adviser>
+        <school_year>2025-2026</school_year>
+    </student>
+    <student>
+        <picture>picture5.jpg</picture>
+        <name>Marco Bautista</name>
+        <course>BSIT</course>
+        <year_level_section>3bg2</year_level_section>
+        <adviser>Mr. Ramon Dela Cruz</adviser>
+        <school_year>2025-2026</school_year>
+    </student>
+    <student>
+        <picture>picture6.jpg</picture>
+        <name>Lisa Gomez</name>
+        <course>BSCS</course>
+        <year_level_section>2bg3</year_level_section>
+        <adviser>Ms. Ana Lopez</adviser>
+        <school_year>2025-2026</school_year>
+    </student>
+    <student>
+        <picture>picture7.jpg</picture>
+        <name>Pedro Morales</name>
+        <course>BSIT</course>
+        <year_level_section>1bg1</year_level_section>
+        <adviser>Mr. John Smith</adviser>
+        <school_year>2025-2026</school_year>
+    </student>
+    <student>
+        <picture>picture8.jpg</picture>
+        <name>Sophia Tan</name>
+        <course>BSCS</course>
+        <year_level_section>4bg4</year_level_section>
+        <adviser>Ms. Sarah Johnson</adviser>
+        <school_year>2025-2026</school_year>
+    </student>
+    <student>
+        <picture>picture9.jpg</picture>
+        <name>Elijah Cruz</name>
+        <course>BSIT</course>
+        <year_level_section>3bg2</year_level_section>
+        <adviser>Mr. Ramon Dela Cruz</adviser>
+        <school_year>2025-2026</school_year>
+    </student>
+    <student>
+        <picture>picture10.jpg</picture>
+        <name>Angela Rodriguez</name>
+        <course>BSCS</course>
+        <year_level_section>2bg3</year_level_section>
+        <adviser>Ms. Ana Lopez</adviser>
+        <school_year>2025-2026</school_year>
+    </student>
+</students>
