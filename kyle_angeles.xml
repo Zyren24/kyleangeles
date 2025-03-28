@@ -1,83 +1,83 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <students>
     <student>
-        <picture>https://i.pinimg.com/736x/af/00/d4/af00d490e32ffb75c0fb7ee02f2046e7.jpg</picture>
-        <name>Juan Dela Cruz</name>
+        <picture>https://scontent.fmnl4-7.fna.fbcdn.net/v/t39.30808-6/455877918_3812886532333510_367278724045332557_n.jpg?stp=cp6_dst-jpg_tt6&_nc_cat=108&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=LkRZsxDrqrgQ7kNvgFORluZ&_nc_oc=Adms09bYVBz-TCNc0V9g0Ew_UgO7WCdLZo8PKfd0AWW7DQHPlkv-Z-MTQHtFaiA047bOM1vye581rKx81whK-vKe&_nc_zt=23&_nc_ht=scontent.fmnl4-7.fna&_nc_gid=fGI0XkNh5x-HlFi5Z6fWGQ&oh=00_AYHxkAwHvYpWlUZ33DGW584rnVCRxQopd63FcR3JNXqe-Q&oe=67EC1CC1</picture>
+        <name>Kyle Zyren A. Angeles</name>
         <course>BSIT</course>
-        <year_level_section>3bg2</year_level_section>
-        <adviser>Mr. Ramon Dela Cruz</adviser>
+        <year_level_section>3BG2</year_level_section>
+        <adviser>Engr. Noemi P. Reyes, MSIT</adviser>
         <school_year>2025-2026</school_year>
     </student>
     <student>
         <picture>https://randomuser.me/api/portraits/women/2.jpg</picture>
-        <name>Maria Santos</name>
-        <course>BSCS</course>
-        <year_level_section>2bg3</year_level_section>
-        <adviser>Ms. Ana Lopez</adviser>
+        <name>Kurt Justin DV. Rafael</name>
+        <course>BSIT</course>
+        <year_level_section>3BG2</year_level_section>
+        <adviser>Engr. Noemi P. Reyes, MSIT</adviser>
         <school_year>2025-2026</school_year>
     </student>
     <student>
         <picture>https://randomuser.me/api/portraits/men/3.jpg</picture>
-        <name>Carlos Reyes</name>
+        <name>Amiel Cedric S. Dela Torre</name>
         <course>BSIT</course>
-        <year_level_section>1bg1</year_level_section>
-        <adviser>Mr. John Smith</adviser>
+        <year_level_section>3BG2</year_level_section>
+        <adviser>Engr. Noemi P. Reyes, MSIT</adviser>
         <school_year>2025-2026</school_year>
     </student>
     <student>
         <picture>https://randomuser.me/api/portraits/women/4.jpg</picture>
-        <name>Anna Dela Cruz</name>
-        <course>BSCS</course>
-        <year_level_section>4bg4</year_level_section>
-        <adviser>Ms. Sarah Johnson</adviser>
+        <name>Enric Kyle C. Coler</name>
+        <course>BSIT</course>
+        <year_level_section>3BG2</year_level_section>
+        <adviser>Engr. Noemi P. Reyes, MSIT</adviser>
         <school_year>2025-2026</school_year>
     </student>
     <student>
         <picture>https://randomuser.me/api/portraits/men/5.jpg</picture>
-        <name>Marco Bautista</name>
+        <name>Eryn Leslie D. Santiago</name>
         <course>BSIT</course>
-        <year_level_section>3bg2</year_level_section>
-        <adviser>Mr. Ramon Dela Cruz</adviser>
+        <year_level_section>3BG2</year_level_section>
+        <adviser>Engr. Noemi P. Reyes, MSIT</adviser>
         <school_year>2025-2026</school_year>
     </student>
     <student>
         <picture>https://randomuser.me/api/portraits/women/6.jpg</picture>
-        <name>Lisa Gomez</name>
-        <course>BSCS</course>
-        <year_level_section>2bg3</year_level_section>
-        <adviser>Ms. Ana Lopez</adviser>
+        <name>Kaira S. Domingo</name>
+        <course>BSIT</course>
+        <year_level_section>3BG2</year_level_section>
+        <adviser>Engr. Noemi P. Reyes, MSIT</adviser>
         <school_year>2025-2026</school_year>
     </student>
     <student>
         <picture>https://randomuser.me/api/portraits/men/7.jpg</picture>
-        <name>Pedro Morales</name>
+        <name>Patrick DC. De Jesus</name>
         <course>BSIT</course>
-        <year_level_section>1bg1</year_level_section>
-        <adviser>Mr. John Smith</adviser>
+        <year_level_section>3BA1</year_level_section>
+        <adviser>Ma. Lourdes O. Mangahas, MSIT</adviser>
         <school_year>2025-2026</school_year>
     </student>
     <student>
         <picture>https://randomuser.me/api/portraits/women/8.jpg</picture>
-        <name>Sophia Tan</name>
-        <course>BSCS</course>
-        <year_level_section>4bg4</year_level_section>
-        <adviser>Ms. Sarah Johnson</adviser>
+        <name>Christian Joseph D. Galleto</name>
+        <course>BSIT</course>
+        <year_level_section>3BA1</year_level_section>
+        <adviser>Ma. Lourdes O. Mangahas, MSIT</adviser>
         <school_year>2025-2026</school_year>
     </student>
     <student>
         <picture>https://randomuser.me/api/portraits/men/9.jpg</picture>
-        <name>Elijah Cruz</name>
+        <name>Peter Angelo D. Murillo</name>
         <course>BSIT</course>
-        <year_level_section>3bg2</year_level_section>
-        <adviser>Mr. Ramon Dela Cruz</adviser>
+        <year_level_section>3BA1</year_level_section>
+        <adviser>Ma. Lourdes O. Mangahas, MSIT</adviser>
         <school_year>2025-2026</school_year>
     </student>
     <student>
         <picture>https://randomuser.me/api/portraits/women/10.jpg</picture>
-        <name>Angela Rodriguez</name>
-        <course>BSCS</course>
-        <year_level_section>2bg3</year_level_section>
-        <adviser>Ms. Ana Lopez</adviser>
+        <name>David I. Alvarez</name>
+        <course>BSIT</course>
+        <year_level_section>3BG1</year_level_section>
+        <adviser>Engr. Noemi P. Reyes, MSIT</adviser>
         <school_year>2025-2026</school_year>
     </student>
 </students>
